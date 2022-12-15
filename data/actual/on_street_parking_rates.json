@@ -1,0 +1,1146 @@
+[
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "14"
+    },
+    {
+        "pricing_area": "1",
+        "name": "Downtown - East Village",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "2",
+        "name": "Downtown - East Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.25"
+    },
+    {
+        "pricing_area": "2",
+        "name": "Downtown - East Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "2",
+        "name": "Downtown - East Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "3.75"
+    },
+    {
+        "pricing_area": "2",
+        "name": "Downtown - East Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "2",
+        "name": "Downtown - East Core",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "0.25"
+    },
+    {
+        "pricing_area": "3",
+        "name": "Downtown - Chinatown",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "3",
+        "name": "Downtown - Chinatown",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "4.75"
+    },
+    {
+        "pricing_area": "3",
+        "name": "Downtown - Chinatown",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "3",
+        "name": "Downtown - Chinatown",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "4"
+    },
+    {
+        "pricing_area": "3",
+        "name": "Downtown - Chinatown",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.75"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "07:00-09:00",
+        "hourly_price": "3.75"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "4.75"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "3.25"
+    },
+    {
+        "pricing_area": "4a",
+        "name": "Downtown - Core",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "0.75"
+    },
+    {
+        "pricing_area": "4b",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.25"
+    },
+    {
+        "pricing_area": "4b",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4b",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4b",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "07:00-09:00",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "5"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "5"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "5"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "5"
+    },
+    {
+        "pricing_area": "4c",
+        "name": "Downtown - Core",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "07:00-09:00",
+        "hourly_price": "4"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.75"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "4.75"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "4d",
+        "name": "Downtown - Core",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1"
+    },
+    {
+        "pricing_area": "5",
+        "name": "Downtown - Eau Claire",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "4.75"
+    },
+    {
+        "pricing_area": "5",
+        "name": "Downtown - Eau Claire",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "5"
+    },
+    {
+        "pricing_area": "5",
+        "name": "Downtown - Eau Claire",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "4.5"
+    },
+    {
+        "pricing_area": "5",
+        "name": "Downtown - Eau Claire",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "3.5"
+    },
+    {
+        "pricing_area": "5",
+        "name": "Downtown - Eau Claire",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1"
+    },
+    {
+        "pricing_area": "6",
+        "name": "Downtown - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "6",
+        "name": "Downtown - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "3"
+    },
+    {
+        "pricing_area": "6",
+        "name": "Downtown - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "6",
+        "name": "Downtown - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.5"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "6.5"
+    },
+    {
+        "pricing_area": "7",
+        "name": "Downtown - West End",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "10.75"
+    },
+    {
+        "pricing_area": "8",
+        "name": "Beltline - West End",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "9",
+        "name": "Beltline - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "9",
+        "name": "Beltline - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "3"
+    },
+    {
+        "pricing_area": "9",
+        "name": "Beltline - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "3"
+    },
+    {
+        "pricing_area": "9",
+        "name": "Beltline - West Core",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "9",
+        "name": "Beltline - West Core",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "10",
+        "name": "17 Avenue - West Long Stay",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "10",
+        "name": "17 Avenue - West Long Stay",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "0.75"
+    },
+    {
+        "pricing_area": "10",
+        "name": "17 Avenue - West Long Stay",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "10",
+        "name": "17 Avenue - West Long Stay",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "10",
+        "name": "17 Avenue - West Long Stay",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "11",
+        "name": "17 Avenue - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1"
+    },
+    {
+        "pricing_area": "11",
+        "name": "17 Avenue - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "11",
+        "name": "17 Avenue - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "11",
+        "name": "17 Avenue - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "11",
+        "name": "17 Avenue - West",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "12",
+        "name": "Beltline - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "12",
+        "name": "Beltline - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "3"
+    },
+    {
+        "pricing_area": "12",
+        "name": "Beltline - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "3"
+    },
+    {
+        "pricing_area": "12",
+        "name": "Beltline - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "12",
+        "name": "Beltline - Centre",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "7.5"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "13",
+        "name": "17 Avenue - Centre",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "7.5"
+    },
+    {
+        "pricing_area": "14",
+        "name": "Beltline - Macleod",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.75"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "9.5"
+    },
+    {
+        "pricing_area": "15",
+        "name": "Beltline - East End",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.5"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "7.5"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "16",
+        "name": "Mission",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "17",
+        "name": "Kensington - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "17",
+        "name": "Kensington - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "3.25"
+    },
+    {
+        "pricing_area": "17",
+        "name": "Kensington - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.75"
+    },
+    {
+        "pricing_area": "17",
+        "name": "Kensington - Centre",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "2.5"
+    },
+    {
+        "pricing_area": "17",
+        "name": "Kensington - Centre",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "18",
+        "name": "Kensington - 10 ST NW",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.75"
+    },
+    {
+        "pricing_area": "18",
+        "name": "Kensington - 10 ST NW",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "18",
+        "name": "Kensington - 10 ST NW",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "18",
+        "name": "Kensington - 10 ST NW",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "18",
+        "name": "Kensington - 10 ST NW",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "19",
+        "name": "Kensington - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "19",
+        "name": "Kensington - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "19",
+        "name": "Kensington - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2.25"
+    },
+    {
+        "pricing_area": "19",
+        "name": "Kensington - West",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "0.75"
+    },
+    {
+        "pricing_area": "19",
+        "name": "Kensington - West",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1"
+    },
+    {
+        "pricing_area": "20",
+        "name": "Inglewood",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "20",
+        "name": "Inglewood",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "20",
+        "name": "Inglewood",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "21",
+        "name": "Bridgeland",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "21",
+        "name": "Bridgeland",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "21",
+        "name": "Bridgeland",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "21",
+        "name": "Bridgeland",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "0.25"
+    },
+    {
+        "pricing_area": "21",
+        "name": "Bridgeland",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "0.25"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "0.25"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Weekdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "5.75"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Saturdays",
+        "length": "Short Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "22",
+        "name": "Centre Street North",
+        "days": "Saturdays",
+        "length": "Long Stay",
+        "time": "09:00-18:00",
+        "hourly_price": "4"
+    },
+    {
+        "pricing_area": "23",
+        "name": "Riley Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "23",
+        "name": "Riley Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.25"
+    },
+    {
+        "pricing_area": "23",
+        "name": "Riley Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "0.75"
+    },
+    {
+        "pricing_area": "23",
+        "name": "Riley Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "0.5"
+    },
+    {
+        "pricing_area": "24",
+        "name": "Research Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "09:00-11:00",
+        "hourly_price": "1.5"
+    },
+    {
+        "pricing_area": "24",
+        "name": "Research Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "11:00 -13:30",
+        "hourly_price": "1.75"
+    },
+    {
+        "pricing_area": "24",
+        "name": "Research Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "13:30-15:30",
+        "hourly_price": "2"
+    },
+    {
+        "pricing_area": "24",
+        "name": "Research Park",
+        "days": "Weekdays",
+        "length": "Short Stay",
+        "time": "15:30-18:00",
+        "hourly_price": "1.5"
+    }
+]

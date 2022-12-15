@@ -1,0 +1,35 @@
+[
+  {
+      "pricing_area": "1",
+      "name": "Downtown - East Village",
+      "days": "Weekdays",
+      "length": "Short Stay",
+      "time": "09:00-11:00",
+      "hourly_price": "1.25",
+      "latitude": "51.0449839",
+      "longitude": "-114.0482898",
+      "permit_zone": "1418"
+  },
+  {
+      "pricing_area": "2",
+      "name": "Downtown - Chinatown",
+      "days": "Weekdays",
+      "length": "Short Stay",
+      "time": "09:00-11:00",
+      "hourly_price": "2.25",
+      "latitude": "51.0453222",
+      "longitude": "-114.0537465",
+      "permit_zone": "2183"
+  },
+  {
+      "pricing_area": "3",
+      "name": "Downtown - Chinatown",
+      "days": "Weekdays",
+      "length": "Short Stay",
+      "time": "09:00-11:00",
+      "hourly_price": "4.5",
+      "latitude": "51.0496481",
+      "longitude": "-114.0579218",
+      "permit_zone": "1279"
+  }
+]
