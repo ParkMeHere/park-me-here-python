@@ -42,10 +42,12 @@ def fetchSpots():
 
 
 def findNearParkingLots(restaurantName: str) -> list[Spot]:
+    # Improve business logic here lol
     return [spots[2]]
 
 
 def findCheapParkingLots(restaurantName: str) -> list[Spot]:
+    # Improve business logic here lol
     return [spots[0], spots[1]]
 
 
