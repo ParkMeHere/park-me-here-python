@@ -1,4 +1,6 @@
-# ParkHere
+# ParkMeHere
+
+Easily find best parking lots around the area in just only few enters
 
 Data Sources
 
